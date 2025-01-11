@@ -6,7 +6,7 @@
 
 ## Summary
 
-Warwick Brown is an experienced Expert Systems and Security Engineer with over 19 years of professional experience. He specializes in security engineering within PCI-DSS compliant environments, providing secure and innovative financial services to SMBs. Warwick holds certifications including CISSP, CCSP, and CSSLP, demonstrating advanced proficiency in information security and system architecture.
+Warwick Brown is an experienced Expert Systems and Security Engineer with over 24 years of professional experience. He specializes in security engineering within PCI-DSS compliant environments, providing secure and innovative financial services to SMBs. Warwick holds certifications including CISSP, CCSP, and CSSLP, demonstrating advanced proficiency in information security and system architecture.
 
 ---
 
