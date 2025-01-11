@@ -58,5 +58,5 @@ This license governs the use of the "WHOAMI" repository and its contents ("the D
 ---
 
 **Contact Information**  
-For permissions, inquiries, or additional information, please contact: i@warwickbrown.uk
+For permissions, inquiries, or additional information, please contact: whoami@warwickbrown.uk
 
