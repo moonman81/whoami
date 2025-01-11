@@ -74,5 +74,5 @@ For inquiries or collaborations, please contact:
 
 ## License
 
-This project is licensed under the terms specified in the [LICENSE](https://github.com/moonman81/whoami/blob/main/LICENSE.md) file.
+This information is licensed under the terms specified in the [LICENSE](https://github.com/moonman81/whoami/blob/main/LICENSE.md) file.
 
